@@ -4,3 +4,7 @@
 # circuit
 
 ![Simulação de Circuito](https://github.com/WayneRocha/parking-sensor/blob/main/circuit.png)
+ 
+ <br>
+ 
+### O pino do led pode ser trocado por um relê ou outro dispositivo de 5volts
